@@ -1,4 +1,4 @@
-# golang-microservice-boilerplate
+# golang-microservice-boilerplate - [It should be Main Project Name i.e. movieapp, go-global-hr]
 Microservices with Go - Boilerplate Code Sample
 
 ## NOTES
@@ -7,3 +7,4 @@ Microservices with Go - Boilerplate Code Sample
 
 1. [Effective Go - an official set of guidelines for Go developers](https://go.dev/doc/effective_go)
 2. [Go Wiki - CodeReviewComments](https://github.com/golang/go/wiki)
+3. [Go Microservice Project Structure](https://github.com/deeprajsshetty/golang-microservice-boilerplate/wiki/Project-Structure)
