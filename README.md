@@ -8,3 +8,8 @@ Microservices with Go - Boilerplate Code Sample
 1. [Effective Go - an official set of guidelines for Go developers](https://go.dev/doc/effective_go)
 2. [Go Wiki - CodeReviewComments](https://github.com/golang/go/wiki)
 3. [Go Microservice Project Structure](https://github.com/deeprajsshetty/golang-microservice-boilerplate/wiki/Project-Structure)
+
+### Project Layout and Package Names - Reference
+
+1. [Project layout](https://github.com/golang-standards/project-layout)
+2. [Package names](https://go.dev/blog/package-names)
